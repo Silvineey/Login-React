@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "Login-React",
+  base: "/Login-React/",
   plugins: [
     react({
       babel: {
